@@ -72,7 +72,3 @@ Please refer to the `Output Data Structure.xlsx` file for the format of your out
 
 ---
 
-## Notes:
-- Make sure your program handles the extraction of the article text correctly, ignoring any extraneous website content.
-- Follow the format of the output spreadsheet exactly as required.
-
